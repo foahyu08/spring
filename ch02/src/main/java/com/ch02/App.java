@@ -12,7 +12,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 /**
  * 날짜 : 2024/09/02
  * 이름 : 강유정
- * 내용 : 2장 Spring Ioc/DI 실습하기
+ * 내용 : 2장 Spring Ioc/DI 실습하기222
  */
 public class App {
     public static void main(String[] args) {
